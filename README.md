@@ -3,4 +3,7 @@
 
 Feature 1 - Design Patterns
 
-Feature 1 - Cerave
+Feature 2 - Cerave
+
+Feature 3 - Kandao
+
