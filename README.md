@@ -13,3 +13,4 @@ Feature 5 - Minere
 
 Feature 6 - lag
 
+feature 7 - pilot
